@@ -1,4 +1,12 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+📦📁 BlackVideo Repository – Deprecated & Migrated
+
+    ⚠️ This repository is no longer maintained.
+    🧭 Development for BlackVideo has moved to a new home under the BlackBlazent organization.
+
+    👉 New Repository: BlackBlazent/BlackVideo
+
+All future updates, bug fixes, and feature development will take place in the new repository.
+Please update your bookmarks and contribute there instead.
 
 # Appname and Version
  *BlackVideo* **1.1.01.0001**
