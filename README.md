@@ -3,7 +3,7 @@
     ⚠️ This repository is no longer maintained.
     🧭 Development for BlackVideo has moved to a new home under the BlackBlazent organization.
 
-    👉 New Repository: BlackBlazent/BlackVideo
+    👉 New Repository: [BlackBlazent/BlackVideo](https://github.com/BlackBlazent/BlackVideo.git)
 
 All future updates, bug fixes, and feature development will take place in the new repository.
 Please update your bookmarks and contribute there instead.
